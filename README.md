@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, 👋 I'm Monish.
+![brightgreen](https://komarev.com/ghpvc/?username=xmonish)
 
-<!--
-**xmonish/xmonish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about ... Programming, Games, Movies, Travelling.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/xmonish/)
 
-Here are some ideas to get you started:
+##### Languages I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshsngh07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+#### Glad you opened my profile. Have a nice day.
