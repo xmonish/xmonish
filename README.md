@@ -3,6 +3,7 @@
 
 - 💬 Ask me about ... Programming, Games, Movies, Travelling.
 - 📫 Reach me:  [Linkedin](https://www.linkedin.com/in/xmonish/)
+- ⚡ Fun fact: We can talk about Psychology & Spirituality all the day.
 
 ##### Languages I use
 
