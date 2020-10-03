@@ -2,7 +2,7 @@
 ![brightgreen](https://komarev.com/ghpvc/?username=xmonish)
 
 - 💬 Ask me about ... Music, Games, Programming, Tech, Travelling.
-- 📫 Reach me:  [Linkedin](https://www.linkedin.com/in/xmonish/)
+- 📫 Reach me:  [Linkedin](https://www.linkedin.com/in/xmonish/) , [Instagram](https://www.instagram.com/xmonish)
 - ⚡ Fun fact: We can talk about Psychology & Spirituality all the day!
 
 ##### Languages I use
