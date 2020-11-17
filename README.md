@@ -15,3 +15,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xmonish&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 #### Glad you opened my profile. Have a nice day!
+
+![picture](https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif)
