@@ -1,7 +1,7 @@
 ### Hi there, 👋 I'm Monish.
 ![brightgreen](https://komarev.com/ghpvc/?username=xmonish)
 
-- 💬 Ask me about ... Music, Games, Psychology, Programming, Tech, Marketing, Travelling.
+- 💬 Ask me about ... Programming, Tech (Anything which can be computably possible) , Marketing, Games, Psychology, Music, Travelling.
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/xmonish/) 
 
 ##### Languages I use
