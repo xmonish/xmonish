@@ -1,7 +1,7 @@
 ### Hi there, 👋 I'm Monish.
 ![brightgreen](https://komarev.com/ghpvc/?username=xmonish)
 
-- 💬 Ask me about : Tech (Everything which can be computably possible), Marketing, Games, Psychology, Music, Travelling.
+- 💬 Ask me about : Tech, Marketing, Games, Psychology, Music, Travelling.
 - 📫 Reach me : [Linkedin](https://www.linkedin.com/in/xmonish/) 
 
 ##### Languages I use
@@ -10,6 +10,8 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+
 
 
 
