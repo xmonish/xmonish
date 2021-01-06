@@ -2,8 +2,7 @@
 ![brightgreen](https://komarev.com/ghpvc/?username=xmonish)
 
 - 💬 Ask me about : Tech, Marketing, Games, Psychology, Music, Travelling.
-- 📫 Reach me : [Linkedin](https://www.linkedin.com/in/xmonish/), [Instagram](https://www.instagram.com/xmonish) 
-
+- 📫 Reach me : [Linkedin](https://www.linkedin.com/in/xmonish/)
 ##### Languages I use
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
