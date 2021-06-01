@@ -1,8 +1,8 @@
-## Hi there, 👋 I'm Monish.
+## Hi there 👋
 ![brightgreen](https://komarev.com/ghpvc/?username=xmonish)
 
-- 💬 Ask me about : Tech, Marketing, Games, Psychology, Music, Travelling.
-- 📫 Reach me : [Linkedin](https://www.linkedin.com/in/xmonish/)
+<!-- - 💬 Ask me about : Tech, Marketing, Games, Psychology, Music, Travelling. -->
+- 📫 Reach me : [Linkedin](https://www.linkedin.com/in/xmonish/), [Twitter](https://www.twitter.com/monishsingh26/)
 ##### Languages I use
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -19,6 +19,6 @@
 
 
 
-####  Glad you opened my profile. Have a nice day!
+<!-- ####  Glad you opened my profile. Have a nice day! -->
 
-![picture](https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif)
+<!-- ![picture](https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif) -->
